@@ -1,0 +1,1 @@
+{"version":3,"sources":["Constants.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AAEb,IAAI,EAAE,GAAG,QAAQ,CAAC;AAClB,OAAO,CAAC,GAAG,CAAC,EAAE,CAAC,CAAC","file":"Constants-compiled.js","sourcesContent":["\"use strict\";\n\nvar PI = 3.141593;\nconsole.log(PI);"]}

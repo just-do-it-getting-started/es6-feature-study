@@ -1,0 +1,1 @@
+{"version":3,"sources":["ExtendLiteral1.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AAEb,GAAG,KAAK,GAAG,CAAC;AACZ,GAAG,KAAK,GAAG,CAAC","file":"ExtendLiteral1-compiled.js","sourcesContent":["\"use strict\";\n\n503 === 503;\n503 === 503;"]}

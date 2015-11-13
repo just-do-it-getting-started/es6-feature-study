@@ -22,3 +22,5 @@ obj = {
 		}, quux, this);
 	})
 };
+
+//# sourceMappingURL=EnchancedObjectProp3-compiled.js.map

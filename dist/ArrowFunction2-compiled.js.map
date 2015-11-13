@@ -1,0 +1,1 @@
+{"version":3,"sources":["ArrowFunction2.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AAEb,IAAI,CAAC,OAAO,CAAC,UAAU,CAAC,EAAE;AACzB,KAAI,CAAC,GAAG,CAAC,KAAK,CAAC,EAAE,KAAK,CAAC,IAAI,CAAC,CAAC,CAAC,CAAC;CAC/B,CAAC,CAAC","file":"ArrowFunction2-compiled.js","sourcesContent":["\"use strict\";\n\nnums.forEach(function (v) {\n\tif (v % 5 === 0) fives.push(v);\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["EnchancedObjectProp1.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AAEb,GAAG,GAAG,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC","file":"EnchancedObjectProp1-compiled.js","sourcesContent":["\"use strict\";\n\nobj = { x: x, y: y };"]}
