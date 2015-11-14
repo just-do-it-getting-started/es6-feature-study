@@ -9,15 +9,13 @@ obj = {
 	},
 	quux: regeneratorRuntime.mark(function quux(x, y) {
 		return regeneratorRuntime.wrap(function quux$(_context) {
-			while (1) {
-				switch (_context.prev = _context.next) {
-					case 0:
-						console.log('quxx');
+			while (1) switch (_context.prev = _context.next) {
+				case 0:
+					console.log('quxx');
 
-					case 1:
-					case 'end':
-						return _context.stop();
-				}
+				case 1:
+				case 'end':
+					return _context.stop();
 			}
 		}, quux, this);
 	})
